@@ -24,11 +24,13 @@ If you believe you have identified a security vulnerability:
 
 ## Deployed Contracts
 
-The following contracts have been used in production for CoinList offerings:
+The following fund contracts have been used in production for CoinList offerings:
 
-| Project | Address                                     | Chain            |
-|---------|---------------------------------------------|------------------|
-| Zama    | 0xE5Ae8f0C646dBc1111DbdED801A03Cf7CE0508b1  | Ethereum Mainnet |
+| Project      | Address                                     | Chain            |
+|--------------|---------------------------------------------|------------------|
+| Zama         | 0xE5Ae8f0C646dBc1111DbdED801A03Cf7CE0508b1  | Ethereum Mainnet |
+| Flying Tulip | 0xf6844473a6079f4992a156b67Ff4C70605d95B84  | Ethereum Mainnet |
+| USD.ai       | 0x2063A7dd34068559f6BfFaBBFfBC53993204eE4A  | Ethereum Mainnet |
 
 ## Repository Structure
 
